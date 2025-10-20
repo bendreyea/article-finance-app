@@ -1,0 +1,1 @@
+Create IncomeExpenseChart using Swift Charts inside a ChartCard. Inputs: [(Date, Double)] income, [(Date, Double)] expenses. Show two series with automatic legend, smoothed line, area fill at 20% opacity from theme palette. Add Y axis formatting as currency, X as day-of-month. Provide demo preview data.

@@ -1,0 +1,1 @@
+Build AssetsPieCard with Swift Charts SectorMark using theme.color.chartPalette. Show center total and an external legend. Also implement GoalsListView rendering ProgressBar items with inline edit.

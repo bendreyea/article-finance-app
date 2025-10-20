@@ -1,0 +1,5 @@
+Command line invocation:
+    /Applications/Xcode.app/Contents/Developer/usr/bin/xcodebuild -project PersonalFinanceApp5.xcodeproj -scheme PersonalFinanceApp5 -configuration Debug clean build
+
+2025-10-18 21:37:52.009 xcodebuild[23538:13404412] Writing error result bundle to /var/folders/0q/wkt2_zxn6pn0z6n_08q5tjfw0000gn/T/ResultBundle_2025-18-10_21-37-0052.xcresult
+xcodebuild: error: 'PersonalFinanceApp5.xcodeproj' does not exist.

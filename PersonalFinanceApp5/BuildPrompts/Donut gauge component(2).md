@@ -1,0 +1,1 @@
+Build a reusable DonutGauge SwiftUI view with inputs (value: Double, max: Double, title: String, subtitle: String?). Use a stroked ring with rounded caps and gradient from theme.color.primary to theme.color.primaryAlt. Center shows value formatted with currency style. Supports accessibility (VoiceOver summary). Add size parameter. No hardcoded colors; read from theme.

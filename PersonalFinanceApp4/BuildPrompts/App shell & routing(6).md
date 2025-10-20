@@ -1,0 +1,1 @@
+Wire an AppShell with NavigationSplitView whose sidebar lists: Dashboard, Income & Expenses, Assets & Goals. Provide a top toolbar with DateRange segmented control and a SearchField bound to the current screen. Inject the theme via ThemeProvider at the root. Include mocked data services.

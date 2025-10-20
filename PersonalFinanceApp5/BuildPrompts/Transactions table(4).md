@@ -1,0 +1,1 @@
+Implement TransactionsTableView using Table<TransactionRow, Columns> with sortable columns: SubCategory, Amount (currency), Bill Due Date (date), Status (Paid/Late/Due with a colored StatusBadge). Add @State sort order and search. Expose callback onRowDoubleClick to edit. Compose with a left CategorySidebar list.
